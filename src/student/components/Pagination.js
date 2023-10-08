@@ -1,6 +1,6 @@
 function Pagination() {
   return (
-    <ul className="pagination pagination-sm">
+    <ul className="pagination pagination-sm mb-0">
       <li className="page-item ">
         <button className="page-link">
           <i className="fa-solid fa-angle-left small" />
